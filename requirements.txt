@@ -1,0 +1,10 @@
+# scikit-learn y xgboost van fijos: model.pkl se guardó con estas versiones
+scikit-learn==1.9.1
+xgboost==3.4.1
+pandas>=2.2
+numpy>=2.0
+matplotlib>=3.9
+joblib>=1.4
+shap>=0.46
+streamlit>=1.50
+pydeck>=0.9
